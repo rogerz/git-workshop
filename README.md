@@ -8,3 +8,8 @@ Please make sure you have prepared the following environment for the workshop
 
 - OS: [vagrant](https://www.vagrantup.com/downloads.html) [ubuntu/trusty64](https://vagrantcloud.com/ubuntu/boxes/trusty64)
 - git: 1.9.1
+
+## Getting Ready
+
+- clone remote repository
+- get next challenge from remote

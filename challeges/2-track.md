@@ -7,7 +7,9 @@ Get next challenge from remote
 
 ## Commands
 
-- git checkout -b
-- git branch -u
-- git fetch
-- git remote update
+```
+git checkout -b
+git branch -u
+git fetch
+git remote update
+```

@@ -9,6 +9,10 @@ Please make sure you have prepared the following environment for the workshop
 - OS: [vagrant](https://www.vagrantup.com/downloads.html) [ubuntu/trusty64](https://vagrantcloud.com/ubuntu/boxes/trusty64)
 - git: 1.9.1
 
+## How to submit solution
+
+Record commands you've used to accomplish the challenge in `solutions/<your team name>/stage-x.md`
+
 ## How to get help
 
 ### Command
